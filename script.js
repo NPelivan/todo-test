@@ -1,5 +1,3 @@
-console.log('loaded');
-
 (function () {
   'use strict';
 
